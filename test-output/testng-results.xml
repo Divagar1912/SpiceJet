@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T00:16:52 IST" name="Suite" finished-at="2024-02-06T00:23:54 IST" duration-ms="421269">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T00:16:52 IST" name="Test" finished-at="2024-02-06T00:23:54 IST" duration-ms="421269">
+      <class name="testcases.Sign_Up_Test">
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:19:40 IST" name="open" finished-at="2024-02-06T00:19:48 IST" duration-ms="7825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:19:48 IST" name="signup" data-provider="signupdata" finished-at="2024-02-06T00:19:57 IST" duration-ms="8632" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8438460925]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajkumar12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty12345*]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Qwerty12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:19:57 IST" name="close" finished-at="2024-02-06T00:19:57 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:19:57 IST" name="open" finished-at="2024-02-06T00:20:02 IST" duration-ms="5157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:02 IST" name="signup" data-provider="signupdata" finished-at="2024-02-06T00:20:15 IST" duration-ms="13027" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8438460925]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajkumar12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty12345*]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Qwerty12345*]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:15 IST" name="close" finished-at="2024-02-06T00:20:15 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:15 IST" name="open" finished-at="2024-02-06T00:20:23 IST" duration-ms="8012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:23 IST" name="signup" data-provider="signupdata" finished-at="2024-02-06T00:20:31 IST" duration-ms="7914" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8438460925]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[raj@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty12345*]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Qwerty12345*]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:31 IST" name="close" finished-at="2024-02-06T00:20:31 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:31 IST" name="open" finished-at="2024-02-06T00:20:42 IST" duration-ms="10952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:42 IST" name="signup" data-provider="signupdata" finished-at="2024-02-06T00:20:50 IST" duration-ms="7872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8438460925]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajkumar12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1.23456789E8]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Qwerty12345*]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:50 IST" name="close" finished-at="2024-02-06T00:20:51 IST" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:51 IST" name="open" finished-at="2024-02-06T00:20:58 IST" duration-ms="7474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:20:58 IST" name="signup" data-provider="signupdata" finished-at="2024-02-06T00:21:07 IST" duration-ms="8628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8438460925]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajkumar12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty12345*]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1.34567892E8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:21:07 IST" name="close" finished-at="2024-02-06T00:21:07 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:21:07 IST" name="open" finished-at="2024-02-06T00:21:14 IST" duration-ms="6804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:21:14 IST" name="signup" data-provider="signupdata" finished-at="2024-02-06T00:21:22 IST" duration-ms="8104" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8438460925]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajkumar12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1.23456789E8]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Qwerty12345*]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:21:22 IST" name="close" finished-at="2024-02-06T00:21:22 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:21:22 IST" name="open" finished-at="2024-02-06T00:21:29 IST" duration-ms="6762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:21:29 IST" name="signup" data-provider="signupdata" finished-at="2024-02-06T00:21:37 IST" duration-ms="7785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8438460925]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajkumar12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[diva]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Sign_Up_Test@7d9f158f]" started-at="2024-02-06T00:21:37 IST" name="close" finished-at="2024-02-06T00:21:37 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Sign_Up_Test -->
+      <class name="testcases.Round_Trip_And_BookingDetails_Test">
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Round_Trip_And_BookingDetails_Test@6bb4dd34]" started-at="2024-02-06T00:18:48 IST" name="open" finished-at="2024-02-06T00:18:51 IST" duration-ms="3049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="booking()[pri:0, instance:testcases.Round_Trip_And_BookingDetails_Test@6bb4dd34]" started-at="2024-02-06T00:18:51 IST" name="booking" finished-at="2024-02-06T00:19:36 IST" duration-ms="44500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Round_Trip_And_BookingDetails_Test@6bb4dd34]" started-at="2024-02-06T00:19:36 IST" name="close" finished-at="2024-02-06T00:19:36 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Round_Trip_And_BookingDetails_Test -->
+      <class name="testcases.Login_Test">
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:21:40 IST" name="open" finished-at="2024-02-06T00:21:47 IST" duration-ms="6774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:21:47 IST" name="login" data-provider="logindata" finished-at="2024-02-06T00:22:06 IST" duration-ms="19235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[86672]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Spicejet123*]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[divagarv1912@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:22:06 IST" name="close" finished-at="2024-02-06T00:22:06 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:22:06 IST" name="open" finished-at="2024-02-06T00:22:12 IST" duration-ms="5747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:22:12 IST" name="login" data-provider="logindata" finished-at="2024-02-06T00:22:32 IST" duration-ms="19410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8667230925]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[spicejet]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[divagarv1912@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:22:32 IST" name="close" finished-at="2024-02-06T00:22:32 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:22:32 IST" name="open" finished-at="2024-02-06T00:22:40 IST" duration-ms="7803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:22:40 IST" name="login" data-provider="logindata" finished-at="2024-02-06T00:22:59 IST" duration-ms="19364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8667230925]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[divagarv1912@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:22:59 IST" name="close" finished-at="2024-02-06T00:22:59 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:22:59 IST" name="open" finished-at="2024-02-06T00:23:08 IST" duration-ms="8509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:23:08 IST" name="login" data-provider="logindata" finished-at="2024-02-06T00:23:27 IST" duration-ms="19442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8667230925]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Spicejet123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[divagar1912@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:23:27 IST" name="close" finished-at="2024-02-06T00:23:28 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:23:28 IST" name="open" finished-at="2024-02-06T00:23:34 IST" duration-ms="6396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:23:34 IST" name="login" data-provider="logindata" finished-at="2024-02-06T00:23:53 IST" duration-ms="19448" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8438460925]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Spicejet123*]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RajKumar@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Login_Test@45efd90f]" started-at="2024-02-06T00:23:53 IST" name="close" finished-at="2024-02-06T00:23:54 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Login_Test -->
+      <class name="testcases.Validate_Fields_Test">
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.Validate_Fields_Test@2ad48653]" started-at="2024-02-06T00:18:31 IST" name="open" finished-at="2024-02-06T00:18:48 IST" duration-ms="17037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="validating_fields()[pri:0, instance:testcases.Validate_Fields_Test@2ad48653]" started-at="2024-02-06T00:18:48 IST" name="validating_fields" finished-at="2024-02-06T00:18:48 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validating_fields -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Validate_Fields_Test@2ad48653]" started-at="2024-02-06T00:18:48 IST" name="close" finished-at="2024-02-06T00:18:48 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Validate_Fields_Test -->
+      <class name="testcases.OnewayTrip_And_BookingDetails__Test">
+        <test-method is-config="true" signature="open()[pri:0, instance:testcases.OnewayTrip_And_BookingDetails__Test@5e3f861]" started-at="2024-02-06T00:16:52 IST" name="open" finished-at="2024-02-06T00:17:08 IST" duration-ms="15489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="login()[pri:0, instance:testcases.OnewayTrip_And_BookingDetails__Test@5e3f861]" started-at="2024-02-06T00:17:08 IST" name="login" finished-at="2024-02-06T00:18:30 IST" duration-ms="82491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.OnewayTrip_And_BookingDetails__Test@5e3f861]" started-at="2024-02-06T00:18:30 IST" name="close" finished-at="2024-02-06T00:18:31 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.OnewayTrip_And_BookingDetails__Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
